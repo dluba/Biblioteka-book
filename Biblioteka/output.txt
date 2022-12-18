@@ -1,0 +1,57 @@
+---Menu---
+1. Adding a book 
+2. Editing the book
+3. Deleting a book
+4. Sorting in alphabetical order
+5. Sorting in reverse alphabetical order
+6. View all books
+7. Search for the oldest book
+8. Exit
+Specify the menu item number: 6
+model < The Lord / place < Tolkien / type < Publisher / year < 173 / cost < 1955
+model < Harry Potter / place < Rowling / type < Publisher / year < 667 / cost < 2000
+model < The Hitchhikers / place < Douglas / type < Publisher / year < 320 / cost < 2014
+model < Pride and Prejudice / place < Austen / type < Publisher / year < 38 / cost < 1813
+---Menu---
+1. Adding a book 
+2. Editing the book
+3. Deleting a book
+4. Sorting in alphabetical order
+5. Sorting in reverse alphabetical order
+6. View all books
+7. Search for the oldest book
+8. Exit
+Specify the menu item number: 4
+---Menu---
+1. Adding a book 
+2. Editing the book
+3. Deleting a book
+4. Sorting in alphabetical order
+5. Sorting in reverse alphabetical order
+6. View all books
+7. Search for the oldest book
+8. Exit
+Specify the menu item number: 6
+model < Pride and Prejudice / place < Austen / type < Publisher / year < 38 / cost < 1813
+model < The Hitchhikers / place < Douglas / type < Publisher / year < 320 / cost < 2014
+model < Harry Potter / place < Rowling / type < Publisher / year < 667 / cost < 2000
+model < The Lord / place < Tolkien / type < Publisher / year < 173 / cost < 1955
+---Menu---
+1. Adding a book 
+2. Editing the book
+3. Deleting a book
+4. Sorting in alphabetical order
+5. Sorting in reverse alphabetical order
+6. View all books
+7. Search for the oldest book
+8. Exit
+Specify the menu item number: 7
+---Menu---
+1. Adding a book 
+2. Editing the book
+3. Deleting a book
+4. Sorting in alphabetical order
+5. Sorting in reverse alphabetical order
+6. View all books
+7. Search for the oldest book
+8. Exit
